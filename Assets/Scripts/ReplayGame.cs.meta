@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7fe362de529eab94b978c20f4f792687
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ReplayButton: {fileID: 7514941099138215815, guid: 08e6ba65920891a49b351f3e532a4315, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

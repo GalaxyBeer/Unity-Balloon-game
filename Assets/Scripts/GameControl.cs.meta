@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6981cc82d98363e4fae1d035b8636a61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TimeText: {fileID: 1333412783523391594, guid: 3b84e7c4d7bee1041ab4a89fbc6724f5, type: 3}
+  - BalloonText: {fileID: 7670814114592950275, guid: c041d2dbcf79bdd47a819e78b9163fef, type: 3}
+  - Pop: {fileID: 767958101661944707, guid: b818e30b918141140ba9329af0c9c22d, type: 3}
+  - ReplayGame: {fileID: 7514941099138215815, guid: 08e6ba65920891a49b351f3e532a4315, type: 3}
+  - replayGame: {fileID: 4453607403298563241, guid: 08e6ba65920891a49b351f3e532a4315, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
